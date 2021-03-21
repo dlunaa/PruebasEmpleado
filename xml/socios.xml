@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<socios>
+    <socio>
+        <nombre>Luis</nombre>
+        <apellidos>Sánchez Pérez</apellidos>
+        <email>luissanchezperez@gmail.com</email>
+        <telefono>698234576</telefono>
+        <idSocio>S124566</idSocio>
+        <periodicidadCuota>MENSUAL</periodicidadCuota>
+    </socio>
+    <socio>
+        <nombre>Marta</nombre>
+        <apellidos>Tapias</apellidos>
+        <email>martatapias@hotmail.com</email>
+        <telefono>612456098</telefono>
+        <idSocio>S456987</idSocio>
+        <periodicidadCuota>TRIMESTRAL</periodicidadCuota>
+    </socio>
+    <socio>
+        <nombre>Ángel</nombre>
+        <apellidos>Martín García</apellidos>
+        <email>angelmartingarcia@yahoo.es</email>
+        <telefono>634897098</telefono>
+        <idSocio>S456789</idSocio>
+        <periodicidadCuota>ANUAL</periodicidadCuota>
+    </socio>
+</socios>

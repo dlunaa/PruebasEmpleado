@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trabajador>
+    <id>87563426X</id>
+    <nombre>Julio</nombre>
+    <apellidos>Santos Martínez</apellidos>
+    <email>juliosanchezmartinez@hotmail.com</email>
+    <telefono>634987123</telefono>
+    <antiguedad>03-11-2019</antiguedad>
+    <pass>606768</pass>
+</trabajador>

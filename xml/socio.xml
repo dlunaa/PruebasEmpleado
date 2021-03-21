@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<socio>
+    <nombre>Ángel</nombre>
+    <apellidos>Martín García</apellidos>
+    <email>angelmartingarcia@yahoo.es</email>
+    <telefono>634897098</telefono>
+    <idSocio>S456789</idSocio>
+    <periodicidadCuota>ANUAL</periodicidadCuota>
+</socio>
